@@ -1,6 +1,6 @@
 # 🛒 Sistema Web para Minimercado
 
-# README - Mercado Fino
+# README - Mercatto Fino
 
 ## Visão Geral
 Este projeto é um site completo para um minimercado, desenvolvido com HTML, CSS (Bootstrap) e JavaScript. O site inclui seções de produtos, serviços, formulários de cadastro e agendamento, além de recursos de acessibilidade.
